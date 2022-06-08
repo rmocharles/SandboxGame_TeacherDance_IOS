@@ -1,0 +1,43 @@
+sit.png
+size:1827,524
+filter:Linear,Linear
+pma:true
+arm 2 1
+bounds:1110,10,171,190
+rotate:90
+arm1
+bounds:1395,325,95,135
+arm2 2
+bounds:1387,16,165,118
+rotate:90
+bady
+bounds:1110,183,339,283
+offsets:0,2,339,285
+rotate:90
+hand1
+bounds:1623,2,88,71
+hand1 1
+bounds:1395,462,60,101
+rotate:90
+hand1 3
+bounds:1302,11,170,83
+rotate:90
+hand2 3
+bounds:1541,176,237,127
+head 1
+bounds:2,11,552,511
+head 2
+bounds:556,11,552,511
+leg1
+bounds:1623,75,201,99
+leg2
+bounds:1507,305,314,217
+lip 1
+bounds:1713,9,64,60
+rotate:90
+obj
+bounds:1395,185,144,118
+obj2
+bounds:1775,13,50,60
+phone
+bounds:1507,44,114,130

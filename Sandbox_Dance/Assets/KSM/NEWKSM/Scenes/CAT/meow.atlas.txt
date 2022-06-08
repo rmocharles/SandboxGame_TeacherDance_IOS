@@ -1,0 +1,7 @@
+meow.png
+size:184,144
+filter:Linear,Linear
+pma:true
+Layer 0
+bounds:2,2,180,140
+offsets:2,2,184,144

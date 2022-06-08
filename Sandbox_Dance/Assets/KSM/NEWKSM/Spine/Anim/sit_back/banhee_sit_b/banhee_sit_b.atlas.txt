@@ -1,0 +1,14 @@
+banhee_sit_b.png
+size:991,629
+filter:Linear,Linear
+pma:true
+body
+bounds:654,204,423,277
+offsets:0,1,423,279
+rotate:90
+head
+bounds:2,2,625,650
+rotate:90
+lag
+bounds:654,57,335,145
+offsets:0,0,335,146

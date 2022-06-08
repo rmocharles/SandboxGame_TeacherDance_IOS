@@ -1,0 +1,6 @@
+bell.png
+size:381,405
+filter:Linear,Linear
+pma:true
+bell
+bounds:2,2,377,401

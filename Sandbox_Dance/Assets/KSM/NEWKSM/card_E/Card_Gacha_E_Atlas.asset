@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Card_Gacha_E_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: c34895a28001db64ab10330817461528, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 293899d493b0d0e4f938c460bd5132cb, type: 2}
+  - {fileID: 2100000, guid: 9529ede62f012f34db1cd184c069eb02, type: 2}
+  - {fileID: 2100000, guid: a04d6c632940d234b96a0f008e352e15, type: 2}
+  - {fileID: 2100000, guid: 26a26f8c48d1459449b7421135aba4ab, type: 2}
+  - {fileID: 2100000, guid: a676ac075776c324ebf0750e750a491e, type: 2}
+  - {fileID: 2100000, guid: 66569040be105ad4894c87590afdc4c3, type: 2}
+  - {fileID: 2100000, guid: a6155bd3d6fb5ac4d81db1f8788de83a, type: 2}

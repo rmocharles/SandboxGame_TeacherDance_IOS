@@ -1,0 +1,11 @@
+gift.png
+size:737,325
+filter:Linear,Linear
+pma:true
+00
+bounds:645,226,90,97
+01
+bounds:2,5,318,343
+rotate:90
+02
+bounds:347,2,296,321

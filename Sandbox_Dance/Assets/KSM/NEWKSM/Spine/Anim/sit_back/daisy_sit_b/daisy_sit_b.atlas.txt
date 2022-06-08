@@ -1,0 +1,12 @@
+daisy_sit_b.png
+size:691,832
+filter:Linear,Linear
+pma:true
+body
+bounds:316,615,373,215
+head
+bounds:2,2,611,650
+offsets:0,21,611,671
+rotate:90
+lag
+bounds:2,671,312,159

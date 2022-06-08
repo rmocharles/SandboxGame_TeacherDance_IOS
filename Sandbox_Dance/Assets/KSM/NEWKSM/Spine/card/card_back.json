@@ -1,0 +1,44 @@
+{ "skeleton": { "images": "D:/수민/재택/샌드박스/스파인/card/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 0", "bone": "root", "attachment": "Layer 0" },
+	{ "name": "Layer 0 copy", "bone": "root", "attachment": "Layer 0 copy" },
+	{ "name": "S2", "bone": "root", "attachment": "S2" },
+	{ "name": "S1", "bone": "root", "attachment": "S1" },
+	{ "name": "4", "bone": "root", "attachment": "4" },
+	{ "name": "3", "bone": "root", "attachment": "3" },
+	{ "name": "2", "bone": "root", "attachment": "2" },
+	{ "name": "1", "bone": "root", "attachment": "1" }
+],
+"skins": {
+	"default": {
+		"Layer 0": {
+			"Layer 0": { "x": 1515.5, "y": -1087.5, "width": 1153, "height": 1569 }
+		},
+		"Layer 0 copy": {
+			"Layer 0 copy": { "x": 1515.5, "y": -1087.5, "width": 1153, "height": 1569 }
+		},
+		"S2": {
+			"S2": { "x": 1515.5, "y": -1087.5, "width": 1135, "height": 1551 }
+		},
+		"S1": {
+			"S1": { "x": 1515.5, "y": -1087.5, "width": 1135, "height": 1551 }
+		},
+		"4": {
+			"4": { "x": 1515.5, "y": -1087.5, "width": 1135, "height": 1551 }
+		},
+		"3": {
+			"3": { "x": 1515.5, "y": -1087.5, "width": 1135, "height": 1551 }
+		},
+		"2": {
+			"2": { "x": 1515.5, "y": -1087.5, "width": 1135, "height": 1551 }
+		},
+		"1": {
+			"1": { "x": 1515.5, "y": -1087.5, "width": 1135, "height": 1551 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,16 @@
+Bag.png
+size:842,525
+filter:Linear,Linear
+pma:true
+B_1
+bounds:398,2,255,356
+rotate:90
+B_2
+bounds:2,11,394,512
+offsets:0,0,395,512
+C_1
+bounds:398,259,264,362
+rotate:90
+C_2
+bounds:756,177,84,80
+offsets:0,1,84,81

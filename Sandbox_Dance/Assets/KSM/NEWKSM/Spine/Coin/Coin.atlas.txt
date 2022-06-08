@@ -1,0 +1,9 @@
+Coin.png
+size:349,187
+filter:Linear,Linear
+pma:true
+1
+bounds:198,36,149,149
+Layer 0
+bounds:2,2,183,194
+rotate:90

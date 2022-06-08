@@ -1,0 +1,8 @@
+Title.png
+size:1880,793
+filter:Linear,Linear
+pma:true
+Layer 0
+bounds:1015,12,863,779
+title_E
+bounds:2,2,1011,789

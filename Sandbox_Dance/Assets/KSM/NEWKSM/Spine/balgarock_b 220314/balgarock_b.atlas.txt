@@ -1,0 +1,24 @@
+balgarock_b.png
+size:1306,538
+filter:Linear,Linear
+pma:true
+Arm1
+bounds:1042,2,212,262
+offsets:0,0,212,264
+rotate:90
+Arm2
+bounds:606,102,148,295
+rotate:90
+Ellipse 1
+bounds:606,51,346,49
+offsets:3,3,352,55
+Lag
+bounds:1042,216,320,259
+rotate:90
+Layer 7
+bounds:918,139,122,397
+body
+bounds:606,252,310,284
+offsets:0,1,310,285
+head
+bounds:2,2,602,534

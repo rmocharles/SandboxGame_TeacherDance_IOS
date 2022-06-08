@@ -1,0 +1,9 @@
+Daia.png
+size:362,185
+filter:Linear,Linear
+pma:true
+1
+bounds:211,34,149,149
+Layer 0
+bounds:2,2,207,181
+offsets:1,1,209,183

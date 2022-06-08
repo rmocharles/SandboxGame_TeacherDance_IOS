@@ -1,0 +1,9 @@
+item.png
+size:284,368
+filter:Linear,Linear
+pma:true
+Layer 26
+bounds:2,2,212,260
+rotate:90
+Vector Smart Object
+bounds:2,216,280,150

@@ -1,0 +1,30 @@
+dance.png
+size:1074,571
+filter:Linear,Linear
+pma:true
+arm 1
+bounds:641,15,169,194
+offsets:2,0,171,194
+arm 2
+bounds:895,211,175,206
+bady
+bounds:641,345,252,224
+bottoms
+bounds:641,261,241,82
+hand 1
+bounds:934,2,97,104
+offsets:0,29,97,133
+rotate:90
+hand 2
+bounds:934,101,108,129
+offsets:0,5,108,134
+rotate:90
+head
+bounds:2,6,563,637
+offsets:0,1,563,638
+rotate:90
+leg 1
+bounds:812,40,120,169
+leg 2
+bounds:895,419,150,177
+rotate:90

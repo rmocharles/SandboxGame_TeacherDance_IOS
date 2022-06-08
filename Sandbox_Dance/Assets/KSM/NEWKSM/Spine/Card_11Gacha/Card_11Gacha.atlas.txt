@@ -1,0 +1,7 @@
+Card_11Gacha.png
+size:1117,1533
+filter:Linear,Linear
+pma:true
+card_basic
+bounds:2,2,1113,1529
+offsets:24,23,1160,1576

@@ -1,0 +1,12 @@
+yamsang_sit_b.png
+size:1007,487
+filter:Linear,Linear
+pma:true
+body
+bounds:585,205,420,280
+offsets:0,1,420,281
+head
+bounds:2,25,460,581
+rotate:90
+lags
+bounds:585,2,393,201

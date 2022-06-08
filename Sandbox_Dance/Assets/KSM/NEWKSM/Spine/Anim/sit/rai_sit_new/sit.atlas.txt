@@ -1,0 +1,69 @@
+sit.png
+size:1085,1045
+filter:Linear,Linear
+pma:true
+arm1 1
+bounds:1000,548,85,83
+rotate:90
+arm2 1
+bounds:596,16,179,162
+rotate:90
+arm2 2
+bounds:360,197,136,238
+rotate:90
+arm2 3
+bounds:851,2,106,108
+arm2-2
+bounds:1000,744,76,105
+arm2-2 1
+bounds:1000,635,69,107
+bady
+bounds:2,107,226,193
+rotate:90
+bottom1
+bounds:2,13,263,92
+hand1
+bounds:1000,337,60,54
+hand1 2
+bounds:1000,479,67,81
+rotate:90
+hand1 3
+bounds:1000,479,67,81
+rotate:90
+head 2
+bounds:2,335,708,497
+rotate:90
+head1
+bounds:501,335,708,497
+rotate:90
+leg1
+bounds:600,200,133,148
+rotate:90
+leg1-2
+bounds:959,10,100,91
+rotate:90
+leg2-2
+bounds:197,108,225,161
+rotate:90
+lip 1
+bounds:1000,393,84,63
+rotate:90
+lip 2
+bounds:1000,851,192,53
+rotate:90
+obj1 2
+bounds:431,8,187,163
+rotate:90
+obj2
+bounds:891,228,151,105
+obj2 2
+bounds:760,50,162,89
+rotate:90
+obj3
+bounds:750,214,119,139
+rotate:90
+obj3 2
+bounds:267,5,162,101
+phone
+bounds:891,112,114,130
+rotate:90

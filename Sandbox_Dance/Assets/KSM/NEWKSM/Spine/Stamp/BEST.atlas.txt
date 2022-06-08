@@ -1,0 +1,16 @@
+BEST.png
+size:1200,269
+filter:Linear,Linear
+pma:true
+Layer 0
+bounds:2,8,252,259
+Layer 1
+bounds:1017,2,265,181
+rotate:90
+Layer 2
+bounds:496,6,261,224
+rotate:90
+Layer 4
+bounds:722,79,293,188
+Layer 5
+bounds:256,11,238,256

@@ -1,0 +1,6 @@
+start-Button.png
+size:686,233
+filter:Linear,Linear
+pma:true
+Layer 0
+bounds:2,2,682,229

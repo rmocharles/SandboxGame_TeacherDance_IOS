@@ -1,0 +1,10 @@
+rai_sit_b.png
+size:1055,493
+filter:Linear,Linear
+pma:true
+body
+bounds:686,211,367,280
+head
+bounds:2,2,682,489
+lag
+bounds:686,57,320,152
